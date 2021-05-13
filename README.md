@@ -2,12 +2,11 @@
 
 ### Table of Contents
 - [Overview](#overview)
-- [Sending Bitcoins on Testnet](#sending-bitcoins-on-testnet)
+- [Sending BTC on Testnet](#sending-btc-on-testnet)
   - [Create Keys](#create-keys)
-  - [Example2](#example2)
-  - [Third Example](#third-example)
-  - [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-- [Sending Bitcoins on Mainnet](#sending-bitcoins-on-mainnet)
+  - [Get Balance for Address](#get-balance-for-address)
+  - [Send Transaction](#send-transaction)
+- [Sending BTC on Mainnet](#sending-btc-on-mainnet)
 
 These are test cases using `bitcoinjs-lib` library for:
 - Creating private/public key pairs
@@ -20,7 +19,7 @@ This is a collection of example scripts used to generate keys, retrieve balance,
 an address. _blockchain.info_ does no longer have testnet, so we are making use of _blockcypher.com_
 for testnet.
 
-## Sending Bitcoins on Testnet
+## Sending BTC on Testnet
 
 ### Create Keys
 
@@ -84,6 +83,6 @@ Continue with broadcasting (y/n): y
 >> Done.
 ```
 
-## Sending Bitcoins on Mainnet
+## Sending BTC on Mainnet
 
 Will be filled later.
