@@ -1,0 +1,22 @@
+{
+  "name": "bitconjs-example1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bitcoinjs-lib": "^5.2.0",
+    "blockchain.info": "^2.12.1",
+    "cli-prompt": "^0.6.0",
+    "lodash": "^4.17.21",
+    "pushtx": "^1.0.1",
+    "request": "^2.88.2",
+    "syncprompt": "^2.0.0"
+  }
+}
